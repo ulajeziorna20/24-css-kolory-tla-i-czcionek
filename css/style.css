@@ -4,21 +4,26 @@ body {
 
 h1 {
     background-color: darksalmon;
+    color: navy;
 }
 
 p.first {
     background-color: hotpink;
+    color: indigo;
 }
 
 
 h2 {
     background-color: magenta;
+    color: darkslategray;
 }
 
 p.second {
     background-color: purple;
+    color: forestgreen;
 }
 
 div {
     background-color: navy;
+    color: gold;
 }
