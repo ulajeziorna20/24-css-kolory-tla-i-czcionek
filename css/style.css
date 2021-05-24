@@ -2,3 +2,23 @@ body {
     background-color: cadetblue;
 }
 
+h1 {
+    background-color: darksalmon;
+}
+
+p.first {
+    background-color: hotpink;
+}
+
+
+h2 {
+    background-color: magenta;
+}
+
+p.second {
+    background-color: purple;
+}
+
+div {
+    background-color: navy;
+}
